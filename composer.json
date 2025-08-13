@@ -8,22 +8,22 @@
     "require": {
         "php": "^8.3",
         "filament/filament": "^4.0",
-        "laravel/framework": "^12.20.0",
-        "laravel/horizon": "^5.33.1",
-        "laravel/pulse": "^1.4.2",
+        "laravel/framework": "^12.23.1",
+        "laravel/horizon": "^5.33.2",
+        "laravel/pulse": "^1.4.3",
         "laravel/tinker": "^2.10.1",
-        "livewire/flux": "^2.2.3",
-        "livewire/volt": "^1.7.1",
+        "livewire/flux": "^2.2.4",
+        "livewire/volt": "^1.7.2",
         "mallardduck/blade-lucide-icons": "^1.23",
-        "opcodesio/log-viewer": "^3.18",
+        "opcodesio/log-viewer": "^3.19",
         "openspout/openspout": "^4.30.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.24.1",
-        "larastan/larastan": "^3.5",
+        "larastan/larastan": "^3.6",
         "laravel/pail": "^1.2.3",
         "laravel/pint": "^1.24.0",
-        "laravel/sail": "^1.43.1",
+        "laravel/sail": "^1.44.0",
         "mockery/mockery": "^1.6.12",
         "nunomaduro/collision": "^8.8.2",
         "pestphp/pest": "^3.8.2",
@@ -87,6 +87,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
